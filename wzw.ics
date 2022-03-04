@@ -3,9 +3,9 @@ PRODID:-//sql2mongo.com//Holidays//CN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:中国节假日调休
+X-WR-CALNAME:节假日--饭票--上海
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:2019~2022年中国放假、调休和补班日历 更新时间2021-10-26 08:25:07
+X-WR-CALDESC:2019~2022年中国放假、调休
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
